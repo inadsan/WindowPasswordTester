@@ -3,7 +3,7 @@ using System.Configuration;
 using System.Threading;
 using System.Runtime.InteropServices;
 
-namespace PasswordsTester
+namespace WindowPasswordTester
 {
     internal class Program
     {
